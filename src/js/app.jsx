@@ -10,7 +10,7 @@ export default class App extends React.Component {
   render() {
     return (
       <div className="container">
-        <div style = {gradient} className="jumbotron text-center">
+        <div className="jumbotron text-center">
           <h1> Origin Weather Application</h1>
           <p> Always know if you'll need an Umbrella!</p>
         </div>
